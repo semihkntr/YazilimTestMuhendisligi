@@ -31,5 +31,4 @@ Proje içerisinde aşağıdaki senaryolar kodlanmış ve doğrulanmıştır:
 
 
 
----
-*Bu proje Eğitim amaçlı hazırlanmıştır.***
+
