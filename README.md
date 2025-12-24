@@ -1,4 +1,4 @@
-**# 🧪 Yazılım Test Mühendisliği Proje Ödevi
+# 🧪 Yazılım Test Mühendisliği Proje Ödevi
 
 Bu proje, **Yazılım Test Mühendisliği** dersi kapsamında hazırlanmış bir **API Otomasyon Test** çalışmasıdır.
 
